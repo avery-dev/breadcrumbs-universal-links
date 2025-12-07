@@ -6,7 +6,7 @@
         "appIDs": ["LB43ZTZ68R.com.breadcrumbs.iosapp"],
         "components": [
           {
-            "/": "/plaid/redirect/*"
+            "/": "*"
           }
         ]
       }
